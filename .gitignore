@@ -1,5 +1,1 @@
-logs
-logs/**
-**/logs/**
-cache.db
-*/sync2local/
+**/sync2local/**
